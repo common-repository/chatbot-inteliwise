@@ -1,0 +1,22 @@
+.inteliwise-wrap {
+    max-width: 960px;
+    width: 100%;
+}
+.inteliwise-wrap,
+.inteliwise-wrap p {
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.inteliwise-wrap ol {
+    margin-left: 1em;
+}
+
+.iw-btn-login,
+.iw-input-code {
+    margin-top: 8px !important;
+}
+
+#adminmenu .current.toplevel_page_inteliwise-chat-settings .wp-menu-image img {
+    opacity: 1;
+}
